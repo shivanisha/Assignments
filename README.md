@@ -1,6 +1,6 @@
 ## Python Practice Questions
 
-### assignment 1
+### 01. assignment python 1
 1. Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5, between 2000 and 3200 (both included). The numbers obtained should be printed in a comma-separated sequence on a single line.
 
 2. Write a Python program to accept the user's first and last name and then getting them printed in the the reverse order with a space between first name and last name.
@@ -9,7 +9,27 @@
 Formula: V=4/3 * π * r 3
 
 
-### assignment 2
+### 02. assignment python 2
+
+
+'''1. Create the below pattern using nested for loop in Python
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * *
+* * *
+* *
+*'''
+
+
+'''2. Write a Python program to reverse a word after accepting the input from the user.
+Input word: ineuron
+Output: norueni'''
+
+
+### assignment pandas 1
 
 url = "https://raw.githubusercontent.com/akhil12028/Bank-Marketing-data-set-analysis/master/bank-additional-full.csv"
 1. read ths data into a dataframe format
