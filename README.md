@@ -12,16 +12,16 @@ Formula: V=4/3 * π * r 3
 ### 02. assignment python 2
 
 
-'''1. Create the below pattern using nested for loop in Python
-*
-* *
-* * *
-* * * *
-* * * * *
-* * * *
-* * *
-* *
-*'''
+1. Create the below pattern using nested for loop in Python
+\n*
+\n* *
+\n* * * 
+\n* * * *
+\n* * * * *
+\n* * * *
+\n* * *
+\n* *
+\n*
 
 
 '''2. Write a Python program to reverse a word after accepting the input from the user.
